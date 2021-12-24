@@ -1,0 +1,23 @@
+   {
+    "name": "StatusMetro",
+    "short_name": "StatusMetro",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEie_3RdsOEHPx7RX8WYwZrDymbrcaG4WCapCSgXp6VxJYDdhyMzEI6ZXzmdg7vry99txaqL-j6X6KzwAcVqqUA4QDxoe8f6KK5XpLJ6bjT47ZtaBYAL3g8blDQJ22mU8aJ5Bhd9ehMmNv4GyGOnNu8kf1ueykwaOAxc-SDmTzkcw8p3tnIbRhUSxwxD/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgnadGUMuASC957D2lSK6iwm1RHPDSmNi6E5GFChdFukbUoPzEXFVfNFsBfFJMaxG2UgDaAvN9I80tfpEIqbggiuIvEuZyfxI01pkLC72v_0KizcjAPMm0K36RO51flBw_qFLMG7s6BKjfzbvXzQNt4idMf4EqTnck1PDLqFGlmB3u4O28D_6IhURlS=s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.statusmetro.com"
+}
